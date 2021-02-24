@@ -1,0 +1,33 @@
+section {
+	min-height: 450px;
+}
+.about{
+	background-image: url(img/4.1.jpg);
+	background-size: cover;
+}
+hr{
+	border-top: 4px solid #F5725A;
+	width: 170px;
+}
+
+.about h2, .about p{
+	text-shadow: 1px 1px 10px rgba(0,0,0,0.5);
+}
+.jumbotron h5{
+	color:  #0C298A;
+}
+.jumbotron {
+	overflow: hidden;
+}
+h3 {
+	color:  #0C298A;
+}
+.project p {
+	color: grey;
+}
+h6{
+	opacity: 0;
+}
+.project .card:hover{
+	box-shadow: 4px 4px 10px rgba(0,0,0,0.5);
+}
